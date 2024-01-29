@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\GirilenSayinin_TekCift _Kontrolu_Metot\GirilenSayinin_TekCift _Kontrolu_Metot\bin\Debug\GirilenSayinin_TekCift _Kontrolu_Metot.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\GirilenSayinin_TekCift _Kontrolu_Metot\GirilenSayinin_TekCift _Kontrolu_Metot\bin\Debug\GirilenSayinin_TekCift _Kontrolu_Metot.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\GirilenSayinin_TekCift _Kontrolu_Metot\GirilenSayinin_TekCift _Kontrolu_Metot\bin\Debug\GirilenSayinin_TekCift _Kontrolu_Metot.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\GirilenSayinin_TekCift _Kontrolu_Metot\GirilenSayinin_TekCift _Kontrolu_Metot\obj\Debug\GirilenSayinin_TekCift _Kontrolu_Metot.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\GirilenSayinin_TekCift _Kontrolu_Metot\GirilenSayinin_TekCift _Kontrolu_Metot\obj\Debug\GirilenSayinin_TekCift _Kontrolu_Metot.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\GirilenSayinin_TekCift _Kontrolu_Metot\GirilenSayinin_TekCift _Kontrolu_Metot\obj\Debug\GirilenSayinin_TekCift _Kontrolu_Metot.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\GirilenSayinin_TekCift _Kontrolu_Metot\GirilenSayinin_TekCift _Kontrolu_Metot\obj\Debug\GirilenSayinin_TekCift _Kontrolu_Metot.pdb

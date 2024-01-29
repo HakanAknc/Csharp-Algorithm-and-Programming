@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Geriye_Deger_Dondurmeyen_Metot_3\Geriye_Deger_Dondurmeyen_Metot_3\bin\Debug\Geriye_Deger_Dondurmeyen_Metot_3.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Geriye_Deger_Dondurmeyen_Metot_3\Geriye_Deger_Dondurmeyen_Metot_3\bin\Debug\Geriye_Deger_Dondurmeyen_Metot_3.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Geriye_Deger_Dondurmeyen_Metot_3\Geriye_Deger_Dondurmeyen_Metot_3\bin\Debug\Geriye_Deger_Dondurmeyen_Metot_3.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Geriye_Deger_Dondurmeyen_Metot_3\Geriye_Deger_Dondurmeyen_Metot_3\obj\Debug\Geriye_Deger_Dondurmeyen_Metot_3.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Geriye_Deger_Dondurmeyen_Metot_3\Geriye_Deger_Dondurmeyen_Metot_3\obj\Debug\Geriye_Deger_Dondurmeyen_Metot_3.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Geriye_Deger_Dondurmeyen_Metot_3\Geriye_Deger_Dondurmeyen_Metot_3\obj\Debug\Geriye_Deger_Dondurmeyen_Metot_3.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Geriye_Deger_Dondurmeyen_Metot_3\Geriye_Deger_Dondurmeyen_Metot_3\obj\Debug\Geriye_Deger_Dondurmeyen_Metot_3.pdb
