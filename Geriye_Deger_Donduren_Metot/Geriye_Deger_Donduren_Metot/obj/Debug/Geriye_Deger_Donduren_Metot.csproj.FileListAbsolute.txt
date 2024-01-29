@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Geriye_Deger_Donduren_Metot\Geriye_Deger_Donduren_Metot\bin\Debug\Geriye_Deger_Donduren_Metot.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Geriye_Deger_Donduren_Metot\Geriye_Deger_Donduren_Metot\bin\Debug\Geriye_Deger_Donduren_Metot.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Geriye_Deger_Donduren_Metot\Geriye_Deger_Donduren_Metot\bin\Debug\Geriye_Deger_Donduren_Metot.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Geriye_Deger_Donduren_Metot\Geriye_Deger_Donduren_Metot\obj\Debug\Geriye_Deger_Donduren_Metot.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Geriye_Deger_Donduren_Metot\Geriye_Deger_Donduren_Metot\obj\Debug\Geriye_Deger_Donduren_Metot.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Geriye_Deger_Donduren_Metot\Geriye_Deger_Donduren_Metot\obj\Debug\Geriye_Deger_Donduren_Metot.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Geriye_Deger_Donduren_Metot\Geriye_Deger_Donduren_Metot\obj\Debug\Geriye_Deger_Donduren_Metot.pdb

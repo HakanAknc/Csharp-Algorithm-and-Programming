@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Diziler1\Diziler1\bin\Debug\Diziler1.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Diziler1\Diziler1\bin\Debug\Diziler1.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Diziler1\Diziler1\bin\Debug\Diziler1.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Diziler1\Diziler1\obj\Debug\Diziler1.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Diziler1\Diziler1\obj\Debug\Diziler1.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Diziler1\Diziler1\obj\Debug\Diziler1.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Diziler1\Diziler1\obj\Debug\Diziler1.pdb

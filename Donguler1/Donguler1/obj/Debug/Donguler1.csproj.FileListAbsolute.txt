@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Donguler1\Donguler1\bin\Debug\Donguler1.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Donguler1\Donguler1\bin\Debug\Donguler1.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Donguler1\Donguler1\bin\Debug\Donguler1.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Donguler1\Donguler1\obj\Debug\Donguler1.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Donguler1\Donguler1\obj\Debug\Donguler1.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Donguler1\Donguler1\obj\Debug\Donguler1.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Donguler1\Donguler1\obj\Debug\Donguler1.pdb
