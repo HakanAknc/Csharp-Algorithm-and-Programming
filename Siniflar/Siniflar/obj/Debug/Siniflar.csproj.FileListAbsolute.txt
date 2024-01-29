@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Siniflar\Siniflar\bin\Debug\Siniflar.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Siniflar\Siniflar\bin\Debug\Siniflar.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Siniflar\Siniflar\bin\Debug\Siniflar.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Siniflar\Siniflar\obj\Debug\Siniflar.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Siniflar\Siniflar\obj\Debug\Siniflar.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Siniflar\Siniflar\obj\Debug\Siniflar.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Siniflar\Siniflar\obj\Debug\Siniflar.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\String_Fonksiyonlar\String_Fonksiyonlar\bin\Debug\String_Fonksiyonlar.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\String_Fonksiyonlar\String_Fonksiyonlar\bin\Debug\String_Fonksiyonlar.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\String_Fonksiyonlar\String_Fonksiyonlar\bin\Debug\String_Fonksiyonlar.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\String_Fonksiyonlar\String_Fonksiyonlar\obj\Debug\String_Fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\String_Fonksiyonlar\String_Fonksiyonlar\obj\Debug\String_Fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\String_Fonksiyonlar\String_Fonksiyonlar\obj\Debug\String_Fonksiyonlar.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\String_Fonksiyonlar\String_Fonksiyonlar\obj\Debug\String_Fonksiyonlar.pdb
