@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Matematiksel_Fonskiyonlar\Matematiksel_Fonskiyonlar\bin\Debug\Matematiksel_Fonskiyonlar.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Matematiksel_Fonskiyonlar\Matematiksel_Fonskiyonlar\bin\Debug\Matematiksel_Fonskiyonlar.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Matematiksel_Fonskiyonlar\Matematiksel_Fonskiyonlar\bin\Debug\Matematiksel_Fonskiyonlar.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Matematiksel_Fonskiyonlar\Matematiksel_Fonskiyonlar\obj\Debug\Matematiksel_Fonskiyonlar.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Matematiksel_Fonskiyonlar\Matematiksel_Fonskiyonlar\obj\Debug\Matematiksel_Fonskiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Matematiksel_Fonskiyonlar\Matematiksel_Fonskiyonlar\obj\Debug\Matematiksel_Fonskiyonlar.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Matematiksel_Fonskiyonlar\Matematiksel_Fonskiyonlar\obj\Debug\Matematiksel_Fonskiyonlar.pdb

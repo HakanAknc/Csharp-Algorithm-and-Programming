@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Metotlar_ Asiri_Yukleme\Metotlar_ Asiri_Yukleme\bin\Debug\Metotlar_ Asiri_Yukleme.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Metotlar_ Asiri_Yukleme\Metotlar_ Asiri_Yukleme\bin\Debug\Metotlar_ Asiri_Yukleme.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Metotlar_ Asiri_Yukleme\Metotlar_ Asiri_Yukleme\bin\Debug\Metotlar_ Asiri_Yukleme.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Metotlar_ Asiri_Yukleme\Metotlar_ Asiri_Yukleme\obj\Debug\Metotlar_ Asiri_Yukleme.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Metotlar_ Asiri_Yukleme\Metotlar_ Asiri_Yukleme\obj\Debug\Metotlar_ Asiri_Yukleme.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Metotlar_ Asiri_Yukleme\Metotlar_ Asiri_Yukleme\obj\Debug\Metotlar_ Asiri_Yukleme.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Metotlar_ Asiri_Yukleme\Metotlar_ Asiri_Yukleme\obj\Debug\Metotlar_ Asiri_Yukleme.pdb

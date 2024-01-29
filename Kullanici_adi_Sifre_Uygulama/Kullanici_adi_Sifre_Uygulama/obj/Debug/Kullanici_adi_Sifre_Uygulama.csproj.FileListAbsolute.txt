@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Kullanici_adi_Sifre_Uygulama\Kullanici_adi_Sifre_Uygulama\bin\Debug\Kullanici_adi_Sifre_Uygulama.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Kullanici_adi_Sifre_Uygulama\Kullanici_adi_Sifre_Uygulama\bin\Debug\Kullanici_adi_Sifre_Uygulama.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Kullanici_adi_Sifre_Uygulama\Kullanici_adi_Sifre_Uygulama\bin\Debug\Kullanici_adi_Sifre_Uygulama.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Kullanici_adi_Sifre_Uygulama\Kullanici_adi_Sifre_Uygulama\obj\Debug\Kullanici_adi_Sifre_Uygulama.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Kullanici_adi_Sifre_Uygulama\Kullanici_adi_Sifre_Uygulama\obj\Debug\Kullanici_adi_Sifre_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Kullanici_adi_Sifre_Uygulama\Kullanici_adi_Sifre_Uygulama\obj\Debug\Kullanici_adi_Sifre_Uygulama.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Kullanici_adi_Sifre_Uygulama\Kullanici_adi_Sifre_Uygulama\obj\Debug\Kullanici_adi_Sifre_Uygulama.pdb
