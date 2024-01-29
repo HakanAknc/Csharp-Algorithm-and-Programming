@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Aritmatik_Dort_Islem\Aritmatik_Dort_Islem\bin\Debug\Aritmatik_Dort_Islem.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Aritmatik_Dort_Islem\Aritmatik_Dort_Islem\bin\Debug\Aritmatik_Dort_Islem.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Aritmatik_Dort_Islem\Aritmatik_Dort_Islem\bin\Debug\Aritmatik_Dort_Islem.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Aritmatik_Dort_Islem\Aritmatik_Dort_Islem\obj\Debug\Aritmatik_Dort_Islem.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Aritmatik_Dort_Islem\Aritmatik_Dort_Islem\obj\Debug\Aritmatik_Dort_Islem.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Aritmatik_Dort_Islem\Aritmatik_Dort_Islem\obj\Debug\Aritmatik_Dort_Islem.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Aritmatik_Dort_Islem\Aritmatik_Dort_Islem\obj\Debug\Aritmatik_Dort_Islem.pdb

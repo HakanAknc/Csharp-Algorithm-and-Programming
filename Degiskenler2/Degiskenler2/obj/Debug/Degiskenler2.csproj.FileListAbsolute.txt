@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Degiskenler2\Degiskenler2\bin\Debug\Degiskenler2.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Degiskenler2\Degiskenler2\bin\Debug\Degiskenler2.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Degiskenler2\Degiskenler2\bin\Debug\Degiskenler2.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Degiskenler2\Degiskenler2\obj\Debug\Degiskenler2.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Degiskenler2\Degiskenler2\obj\Debug\Degiskenler2.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Degiskenler2\Degiskenler2\obj\Debug\Degiskenler2.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Degiskenler2\Degiskenler2\obj\Debug\Degiskenler2.pdb

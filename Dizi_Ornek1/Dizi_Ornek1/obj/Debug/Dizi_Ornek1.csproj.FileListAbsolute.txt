@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Dizi_Ornek1\Dizi_Ornek1\bin\Debug\Dizi_Ornek1.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Dizi_Ornek1\Dizi_Ornek1\bin\Debug\Dizi_Ornek1.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Dizi_Ornek1\Dizi_Ornek1\bin\Debug\Dizi_Ornek1.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Dizi_Ornek1\Dizi_Ornek1\obj\Debug\Dizi_Ornek1.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Dizi_Ornek1\Dizi_Ornek1\obj\Debug\Dizi_Ornek1.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Dizi_Ornek1\Dizi_Ornek1\obj\Debug\Dizi_Ornek1.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Dizi_Ornek1\Dizi_Ornek1\obj\Debug\Dizi_Ornek1.pdb

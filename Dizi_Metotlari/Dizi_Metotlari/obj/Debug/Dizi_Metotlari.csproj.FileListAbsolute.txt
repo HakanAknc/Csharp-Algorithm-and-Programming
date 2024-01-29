@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Dizi_Metotlari\Dizi_Metotlari\bin\Debug\Dizi_Metotlari.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Dizi_Metotlari\Dizi_Metotlari\bin\Debug\Dizi_Metotlari.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Dizi_Metotlari\Dizi_Metotlari\bin\Debug\Dizi_Metotlari.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Dizi_Metotlari\Dizi_Metotlari\obj\Debug\Dizi_Metotlari.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Dizi_Metotlari\Dizi_Metotlari\obj\Debug\Dizi_Metotlari.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Dizi_Metotlari\Dizi_Metotlari\obj\Debug\Dizi_Metotlari.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Dizi_Metotlari\Dizi_Metotlari\obj\Debug\Dizi_Metotlari.pdb

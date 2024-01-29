@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cok_Bicimlilik", "Cok_Bicimlilik\Cok_Bicimlilik.csproj", "{F69CEB18-EAE1-4C7A-8458-B9D4F8D18B68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F69CEB18-EAE1-4C7A-8458-B9D4F8D18B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69CEB18-EAE1-4C7A-8458-B9D4F8D18B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69CEB18-EAE1-4C7A-8458-B9D4F8D18B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69CEB18-EAE1-4C7A-8458-B9D4F8D18B68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17BB581C-0F39-4DDE-B068-2E8D9293D516}
+	EndGlobalSection
+EndGlobal
