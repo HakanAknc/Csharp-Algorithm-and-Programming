@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Tarih_Zaman_Fonksiyonlari\Tarih_Zaman_Fonksiyonlari\bin\Debug\Tarih_Zaman_Fonksiyonlari.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Tarih_Zaman_Fonksiyonlari\Tarih_Zaman_Fonksiyonlari\bin\Debug\Tarih_Zaman_Fonksiyonlari.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Tarih_Zaman_Fonksiyonlari\Tarih_Zaman_Fonksiyonlari\bin\Debug\Tarih_Zaman_Fonksiyonlari.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Tarih_Zaman_Fonksiyonlari\Tarih_Zaman_Fonksiyonlari\obj\Debug\Tarih_Zaman_Fonksiyonlari.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Tarih_Zaman_Fonksiyonlari\Tarih_Zaman_Fonksiyonlari\obj\Debug\Tarih_Zaman_Fonksiyonlari.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Tarih_Zaman_Fonksiyonlari\Tarih_Zaman_Fonksiyonlari\obj\Debug\Tarih_Zaman_Fonksiyonlari.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Tarih_Zaman_Fonksiyonlari\Tarih_Zaman_Fonksiyonlari\obj\Debug\Tarih_Zaman_Fonksiyonlari.pdb
