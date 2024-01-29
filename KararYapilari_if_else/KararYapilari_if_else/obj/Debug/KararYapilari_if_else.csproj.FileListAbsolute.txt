@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\KararYapilari_if_else\KararYapilari_if_else\bin\Debug\KararYapilari_if_else.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\KararYapilari_if_else\KararYapilari_if_else\bin\Debug\KararYapilari_if_else.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\KararYapilari_if_else\KararYapilari_if_else\bin\Debug\KararYapilari_if_else.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\KararYapilari_if_else\KararYapilari_if_else\obj\Debug\KararYapilari_if_else.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\KararYapilari_if_else\KararYapilari_if_else\obj\Debug\KararYapilari_if_else.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\KararYapilari_if_else\KararYapilari_if_else\obj\Debug\KararYapilari_if_else.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\KararYapilari_if_else\KararYapilari_if_else\obj\Debug\KararYapilari_if_else.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Kalitim\Kalitim\bin\Debug\Kalitim.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Kalitim\Kalitim\bin\Debug\Kalitim.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Kalitim\Kalitim\bin\Debug\Kalitim.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Kalitim\Kalitim\obj\Debug\Kalitim.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Kalitim\Kalitim\obj\Debug\Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Kalitim\Kalitim\obj\Debug\Kalitim.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Kalitim\Kalitim\obj\Debug\Kalitim.pdb

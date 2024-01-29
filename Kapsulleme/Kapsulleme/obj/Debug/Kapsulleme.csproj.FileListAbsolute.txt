@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\C#_Tutorial\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.exe.config
+C:\Users\Hakan Akıncı\C#_Tutorial\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Kapsulleme\Kapsulleme\bin\Debug\Kapsulleme.pdb
+C:\Users\Hakan Akıncı\C#_Tutorial\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\C#_Tutorial\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.exe
+C:\Users\Hakan Akıncı\C#_Tutorial\Kapsulleme\Kapsulleme\obj\Debug\Kapsulleme.pdb
