@@ -11,4 +11,4 @@ This training series is designed for those who want to delve into the world of C
 Bu proje, basit bir konsol uygulaması olarak tasarlanmıştır ve bir kitapçı yönetim sistemini simüle eder. Kullanıcılar, menüden çeşitli işlemler seçerek kitap fiyatlarını sorgulayabilir, yeni okur kayıtları oluşturabilir, günün kitabını görebilir, kitap arşivini görüntüleyebilir, kitap satın alabilir ve basit bir sayı tahmin oyununu oynayabilirler.
 
 # Library Project;
-This project is designed as a simple console application simulating a bookstore management system. Users can query book prices, create new reader records, view the book of the day, display the book archive, purchase books, and play a simple number guessing game by selecting various operations from the menu.
+This project is designed as a simple console application simulating a bookstore management system. Users can query book prices, create new reader records, view the book of the day, display the book archive, purchase books, and play a simple number guessing game by selecting various operations from the menu...
